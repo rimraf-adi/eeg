@@ -1,0 +1,5 @@
+beta	0.786096
+beta+gamma	0.795455
+alpha+beta+gamma	0.783422
+beta+gamma+delta+theta	0.778075
+alpha+beta+gamma+delta+theta	0.740642
