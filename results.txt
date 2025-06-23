@@ -1,0 +1,18 @@
+T-Test Results (Seizure vs. Non-Seizure):
+
+Feature              |  t-stat |   p-value | Significant
+slope_delta          | -3.019e+00 | 2.58221e-03 | YES
+slope_theta          | -3.118e-01 | 7.55203e-01 | NO
+slope_alpha          | -8.498e+00 | 5.30429e-17 | YES
+slope_beta           | -1.248e+01 | 1.19671e-33 | YES
+slope_gamma          | -2.024e+00 | 4.31659e-02 | YES
+intercept_delta      | 9.422e+00 | 1.88922e-20 | YES
+intercept_theta      | 7.069e+00 | 2.49222e-12 | YES
+intercept_alpha      | 1.095e+01 | 1.07374e-26 | YES
+intercept_beta       | 1.166e+01 | 8.06905e-30 | YES
+intercept_gamma      | 7.566e-02 | 9.39702e-01 | NO
+midband_delta        | 1.127e+01 | 3.54099e-28 | YES
+midband_theta        | 1.037e+01 | 3.19090e-24 | YES
+midband_alpha        | 1.243e+01 | 1.84091e-33 | YES
+midband_beta         | 8.594e+00 | 2.42386e-17 | YES
+midband_gamma        | -2.421e+00 | 1.55948e-02 | YES
