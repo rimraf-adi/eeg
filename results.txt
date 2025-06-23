@@ -45,4 +45,4 @@ gamma  0.839674
 beta+theta  0.830842
 beta+gamma+theta  0.830842
 beta+gamma+delta+theta  0.827446
-alpha+beta+gamma+delta+theta  0.798913
+alpha+beta+gamma+delta+theta  0.79891
