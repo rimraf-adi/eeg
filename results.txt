@@ -1,0 +1,48 @@
+all features
+beta	0.786096
+beta+gamma	0.795455
+alpha+beta+gamma	0.783422
+beta+gamma+delta+theta	0.778075
+alpha+beta+gamma+delta+theta	0.740642
+
+slope
+gamma  0.835913
+beta+theta  0.835913
+beta+gamma+delta  0.786378
+beta+gamma+delta+theta  0.710526
+alpha+beta+gamma+delta+theta  0.722910
+
+intercept
+alpha  0.777693
+alpha+gamma  0.757066
+beta+gamma+theta  0.764706
+alpha+gamma+delta+theta  0.740260
+alpha+beta+gamma+delta+theta  0.699007
+
+midband
+alpha  0.781947
+alpha+gamma  0.802231
+alpha+gamma+theta  0.797160
+alpha+gamma+delta+theta  0.809331
+alpha+beta+gamma+delta+theta  0.771805
+
+slope+intercept
+alpha  0.836538
+alpha+gamma  0.860577
+alpha+beta+gamma  0.844952
+alpha+beta+gamma+theta  0.872596
+alpha+beta+gamma+delta+theta  0.801683
+
+slope+midband
+delta  0.805707
+gamma+delta  0.769701
+alpha+gamma+theta  0.748641
+alpha+gamma+delta+theta  0.694973
+alpha+beta+gamma+delta+theta  0.679348
+
+intercept+midband
+gamma  0.839674
+beta+theta  0.830842
+beta+gamma+theta  0.830842
+beta+gamma+delta+theta  0.827446
+alpha+beta+gamma+delta+theta  0.798913
